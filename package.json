@@ -1,0 +1,42 @@
+{
+  "name": "freelancer-tax-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for US freelancer taxes: 1099 and self-employment tax estimates, quarterly estimated tax plans, IRS figures and deadlines for 2026 and 2027. Zero dependencies.",
+  "bin": {
+    "freelancer-tax-mcp": "server.js"
+  },
+  "main": "server.js",
+  "files": [
+    "server.js",
+    "lib/"
+  ],
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "claude",
+    "tax",
+    "1099",
+    "self-employment-tax",
+    "freelancer",
+    "irs",
+    "estimated-tax"
+  ],
+  "homepage": "https://github.com/jajpo-tools/freelancer-tax-mcp#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jajpo-tools/freelancer-tax-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jajpo-tools/freelancer-tax-mcp/issues"
+  },
+  "author": "JAJPO (https://jajpo.com)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
