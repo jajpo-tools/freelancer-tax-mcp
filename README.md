@@ -2,6 +2,7 @@
 
 [![tests](https://github.com/jajpo-tools/freelancer-tax-mcp/actions/workflows/test.yml/badge.svg)](https://github.com/jajpo-tools/freelancer-tax-mcp/actions/workflows/test.yml)
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![freelancer-tax-mcp MCP server](https://glama.ai/mcp/servers/jajpo-tools/freelancer-tax-mcp/badges/score.svg)](https://glama.ai/mcp/servers/jajpo-tools/freelancer-tax-mcp)
 
 A [Model Context Protocol](https://modelcontextprotocol.io/) server that gives AI assistants accurate **US federal tax figures and estimates for freelancers, gig workers and 1099 contractors** for tax years 2026 and 2027. Ask Claude, Cursor, VS Code or any MCP client:
 
