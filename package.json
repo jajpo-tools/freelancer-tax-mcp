@@ -1,6 +1,6 @@
 {
   "name": "freelancer-tax-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "MCP server for US freelancer taxes: 1099 and self-employment tax estimates, quarterly estimated tax plans, IRS figures and deadlines for 2026 and 2027. Zero dependencies.",
   "bin": {
     "freelancer-tax-mcp": "server.js"
